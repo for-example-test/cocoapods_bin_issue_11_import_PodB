@@ -1,0 +1,22 @@
+{
+  "name": "cocoapods_bin_issue_11_import_PodB",
+  "version": "0.1.0",
+  "summary": "A short description of cocoapods_bin_issue_11_import_PodB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tripleCC/cocoapods_bin_issue_11_import_PodB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tripleCC": "triplec.linux@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tripleCC/cocoapods_bin_issue_11_import_PodB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "cocoapods_bin_issue_11_import_PodB/Classes/**/*"
+}
