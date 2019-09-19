@@ -1,0 +1,6 @@
+use_frameworks!
+target 'cocoapods_bin_issue_11_import_PodB_Tests' do
+  pod 'cocoapods_bin_issue_11_import_PodB', :path => '../'
+  
+  
+end
